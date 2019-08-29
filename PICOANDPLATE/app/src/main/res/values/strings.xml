@@ -1,0 +1,41 @@
+<!--English-->
+<!--<resources>-->
+    <!--<string name="app_name">PICO AND PLATE</string>-->
+    <!--<string name="hint_plate_number">Plate Number</string>-->
+    <!--<string name="action_settings">Settings</string>-->
+    <!--<string name="activity_title_home">Logs</string>-->
+    <!--<string name="msg_no_logs">No logs found!</string>-->
+    <!--<string name="msg_plate_number">Please input valid plate number</string>-->
+    <!--<string name="msg_valid_date">Please enter valid date</string>-->
+    <!--<string name="msg_valid_time">Please enter valid time</string>-->
+    <!--<string name="txt_status">Status</string>-->
+    <!--<string name="txt_no">No</string>-->
+    <!--<string name="txt_contravention">Contravention</string>-->
+    <!--<string name="txt_total_fine">Total fine</string>-->
+    <!--<string name="btn_select_date">Select Date</string>-->
+    <!--<string name="btn_select_time">Select Time</string>-->
+    <!--<string name="switch_disabilities">Disabilities/Elder</string>-->
+    <!--<string name="btn_check_status">Check Status</string>-->
+    <!--<string name="btn_check_logs">Check Logs</string>-->
+<!--</resources>-->
+
+<!--spanish-->
+<resources>
+<string name="app_name">PICO AND PLATE</string>
+<string name="hint_plate_number">Número de placa</string>
+<string name="action_settings">Configuraciones</string>
+<string name="activity_title_home">Registros</string>
+<string name="msg_no_logs">¡No se encontraron registros!</string>
+<string name="msg_plate_number">Por favor ingrese un número de placa válido</string>
+<string name="msg_valid_date">Por favor, introduzca una fecha válida</string>
+<string name="msg_valid_time">Por favor ingrese el tiempo válido</string>
+<string name="txt_status">Estado</string>
+<string name="txt_no">No</string>
+<string name="txt_contravention">Contravención</string>
+<string name="txt_total_fine">Multa total</string>
+<string name="btn_select_date">Seleccione fecha</string>
+<string name="btn_select_time">Seleccionar hora</string>
+<string name="switch_disabilities">Discapacidades / Anciano</string>
+<string name="btn_check_status">Comprobar estado</string>
+<string name="btn_check_logs">Verificar registros</string>
+</resources>
